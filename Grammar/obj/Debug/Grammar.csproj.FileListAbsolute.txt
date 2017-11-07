@@ -1,0 +1,7 @@
+F:\VC\Grammar\Grammar\bin\Debug\Grammar.exe.config
+F:\VC\Grammar\Grammar\bin\Debug\Grammar.exe
+F:\VC\Grammar\Grammar\bin\Debug\Grammar.pdb
+F:\VC\Grammar\Grammar\obj\Debug\Grammar.csprojResolveAssemblyReference.cache
+F:\VC\Grammar\Grammar\obj\Debug\Grammar.csproj.CoreCompileInputs.cache
+F:\VC\Grammar\Grammar\obj\Debug\Grammar.exe
+F:\VC\Grammar\Grammar\obj\Debug\Grammar.pdb
